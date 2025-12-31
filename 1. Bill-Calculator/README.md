@@ -1,57 +1,88 @@
 
-# Bill Calculator (Python)
 
-A simple and beginner-friendly Python program that calculates the total bill, adds a tip percentage, and splits the amount evenly among multiple people.
+# 💰 Bill Calculator (Python)
 
-## Features
+A beginner-friendly Python console application that calculates the total bill, adds a tip percentage, and splits the final amount evenly among multiple people.
 
-* Takes total bill amount as input
+This project focuses on **basic Python fundamentals** such as user input, arithmetic operations, and clean console output.
+
+---
+
+## 📌 Features
+
+* Accepts total bill amount from the user
 * Allows custom tip percentage
-* Splits bill among any number of people
-* Handles invalid (non-numeric) input
-* Outputs the final amount per person, rounded to two decimals
+* Splits the bill among any number of people
+* Displays how much each person should pay
 
-## How It Works
+---
 
-1. User enters the total bill amount
-2. User selects a tip percentage
-3. User enters the number of people
-4. Program calculates and displays how much each person should pay
+## 🧠 How It Works
 
-## Example
+1. The user enters the total bill amount
+2. The user enters the tip percentage
+3. The user enters the number of people
+4. The program calculates and displays the amount per person
+
+---
+
+## ▶️ Example Output
 
 ```
 Welcome to the Bill Calculator
 
 What was the total bill?
-$150
+150
 What percentage tip would you like to give?
 10
 How many people to split the bill?
 3
 
-Each person should pay: $55.0
+Each person should pay: $55.00
 ```
 
-## Requirements
+---
 
-* Python 3.x
+## 🛠 Concepts Used
 
-## How to Run
+* User input with `input()`
+* Type conversion using `float` and `int`
+* Basic arithmetic operations
+* String formatting with f-strings
+
+---
+
+## ▶️ How to Run
+
+1. Make sure Python 3 is installed
+2. Navigate to the project directory
+3. Run the program:
 
 ```bash
-python bill_calculator.py
+python main.py
 ```
 
-## Learning Outcome
+---
 
-* User input handling
-* Type conversion (`float`, `int`)
-* Basic arithmetic operations
-* Exception handling (`try-except`)
-* Clean console output formatting
+## 📁 Project Level
 
-## Author
+* Beginner Python project
+* Console-based application
+* Suitable for GitHub portfolios and Ausbildung IT applications
+
+---
+
+## 🚀 Possible Improvements
+
+* Add input validation (`try-except`)
+* Ensure all outputs are formatted to two decimal places
+* Convert logic into reusable functions
+* Add loop support for multiple calculations
+
+---
+
+## 👤 Author
 
 Abhinav
+
 
