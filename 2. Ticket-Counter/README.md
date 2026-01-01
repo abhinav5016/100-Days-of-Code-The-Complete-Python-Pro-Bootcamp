@@ -84,7 +84,6 @@ Your ticket price is: $0
 
 * Beginner Python Project
 * Console-based application
-* Suitable for GitHub portfolio (Ausbildung IT)
 
 ---
 

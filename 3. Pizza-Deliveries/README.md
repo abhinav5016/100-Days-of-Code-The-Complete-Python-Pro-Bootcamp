@@ -91,7 +91,6 @@ python main.py
 
 * Beginner Python project
 * Console-based application
-* Suitable for early GitHub portfolio and Ausbildung IT applications
 
 ---
 

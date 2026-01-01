@@ -108,20 +108,6 @@ Treasure-Game/
 └── README.md
 ```
 
----
-
-## 🎯 Why This Project Matters (For Ausbildung IT)
-
-This project demonstrates:
-
-* Logical thinking
-* Clean control flow
-* User-focused program design
-* Ability to build interactive CLI applications
-
-It is **ideal for beginners** and **appropriate for GitHub portfolios** targeting Ausbildung IT roles.
-
----
 
 ## 🚀 Future Improvements (Optional)
 
