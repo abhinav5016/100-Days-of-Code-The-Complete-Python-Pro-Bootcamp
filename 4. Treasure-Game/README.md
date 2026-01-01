@@ -108,6 +108,18 @@ Treasure-Game/
 └── README.md
 ```
 
+---
+
+## 🎯 Why This Project Matters 
+
+This project demonstrates:
+
+* Logical thinking
+* Clean control flow
+* User-focused program design
+* Ability to build interactive CLI applications
+
+---
 
 ## 🚀 Future Improvements (Optional)
 
