@@ -1,6 +1,6 @@
 
 
-# 🪨📄✂️ Rock Paper Scissors – Python CLI Game
+# 📄✂️ Rock Paper Scissors – Python CLI Game
 
 A simple **command-line Rock–Paper–Scissors game** built using Python.
 The player competes against the computer, which makes a random choice.
