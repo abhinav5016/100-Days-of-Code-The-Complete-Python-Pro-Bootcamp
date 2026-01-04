@@ -86,6 +86,7 @@ elif injured_arms or injured_lungs and final_stage == "stone":
 else:
     print("\nWrong choice.\nThe seal remains closed.\nThe temple begins to shake violently.\nYou must flee!\nYou run out just in time as the temple collapses behind you.\n")
     print("You survived, but the treasure remains hidden.\n.")
-    print("Game Over.")         
+    print("Game Over.")
+             
 
    

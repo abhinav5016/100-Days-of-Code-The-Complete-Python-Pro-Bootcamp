@@ -47,7 +47,10 @@ else:
     elif (user_choice == 0 and computer_choice == 1) or (user_choice == 1 and computer_choice == 2) or (user_choice == 2 and computer_choice == 0):
         print("You lose")
     else:
-        print("Invalid input")            
+        print("Invalid input")
+
+ 
+
 
 
 
